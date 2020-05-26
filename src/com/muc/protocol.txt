@@ -1,0 +1,19 @@
+
+
+1. User --> Server
+	
+	Login username password
+	
+	Logoff
+
+2. Server --> User
+
+	Online User
+	
+	Offline User
+
+3. User --> User
+
+	Direct messages:  <userlogin> < message body>
+	
+	broadcast messages
